@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+a {
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 72px;
+}
